@@ -1,1 +1,17 @@
+# Core — versions pinned to match the proposal's reproducibility checklist
+xgboost==1.7.6
+scikit-learn==1.2.2
+shap==0.42.1
 
+# Data handling
+pandas==2.0.3
+numpy==1.24.4
+
+# Visualisation (ROC/PR curves, confusion matrices, SHAP plots)
+matplotlib==3.7.2
+seaborn==0.12.2
+
+# Statistical testing (Wilcoxon signed-rank)
+scipy==1.10.1
+
+# Tested on Python 3.10.12
